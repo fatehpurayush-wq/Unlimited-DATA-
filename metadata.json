@@ -1,0 +1,6 @@
+{
+  "name": "Free Public VPN",
+  "description": "Native Android public VPN client with WireGuard tunneling, public server directory discovery, latency probing, DNS protection, and encrypted profile storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
